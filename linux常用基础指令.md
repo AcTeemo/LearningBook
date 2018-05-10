@@ -213,7 +213,7 @@ systemctl status/stop/start/disable/enable/ firewalld
 | screen -r [name]  | 恢复挂起的窗口,只有一个窗口可省略名字 |
 | screen -ls        | 列出所有窗口名字            |
 | screen -d(r) name | 分离,恢复               |
-| 退出窗口,exit或者ctrl-d |                     |
+| exit或者ctrl-d |    退出             |
 | ctrl + a, c       | 创建子窗口               |
 | ctrl + a, w       | 子窗口列表               |
 | ctrl+a, p(n)      | 上(下)一个子窗口           |
